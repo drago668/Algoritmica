@@ -1,3 +1,5 @@
+# RETO #8: ENCUENTRA EL JUGUETE ÚNICO
+
 Santa 🎅 quiere saber cuál es la primera letra no repetida en el nombre de un juguete 🎁.
 
 Escribe una función que reciba un `string` y devuelva la primera letra que no se repite, ignorando mayúsculas y minúsculas al contar, pero devolviendo la letra tal como aparece en el string.

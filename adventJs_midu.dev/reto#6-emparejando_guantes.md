@@ -1,3 +1,5 @@
+# RETO #6: EMPAREJANDO GUANTES
+
 En el taller de Santa, los elfos han encontrado **una montaña de guantes mágicos** totalmente desordenados. Cada guante viene descrito por dos valores:
 
 * `hand`: indica si es un guante izquierdo (`L`) o derecho (`R`)

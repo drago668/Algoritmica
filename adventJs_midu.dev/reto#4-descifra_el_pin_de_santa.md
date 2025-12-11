@@ -1,9 +1,10 @@
+# RETO #4 DESCIFRAR EL PIN DE SANTA
+
 Los elfos han encontrado el **código cifrado** que protege la puerta del taller de Santa 🔐. El PIN tiene  **4 dígitos** , y está escondido dentro de bloques como estos:
 
 ```js
 [1++][2-][3+][<]
 ```
-
 
 **Escribe una función que descifre el PIN a partir del código.**
 
