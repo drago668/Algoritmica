@@ -2,19 +2,19 @@ import string
 
 
 def filter_gifts(gifts):
-    goodGifts = []  
-    accept=True
+    good_Gifts = [] 
+    accept = True
     
     for gift in gifts:
         for char in gift:
 
             if char in string.punctuation:
-                accept=False
+                accept = False
 
         if accept:
-            goodGifts.append(gift)
+            good_Gifts.append(gift)
 
-        accept=True
-    return goodGifts
+        accept = True
+    return good_Gifts
 
 
